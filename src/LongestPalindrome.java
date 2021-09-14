@@ -31,7 +31,7 @@ public class LongestPalindrome
 
         int max_length = 0, curr_length;
 
-        // consider every adjacent pair of characters as mid points and
+        // consider every adj` 456`acent pair of characters as mid points and
         // expand in both directions to find maximum length palindrome
 
         for (int i = 0; i < len; i++)
